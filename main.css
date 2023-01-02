@@ -49,3 +49,9 @@ body, html {
     display: flex;
     flex-direction: column;
   }
+
+  .card-container {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(3, 1fr);
+  }
