@@ -21,7 +21,7 @@ body, html {
   .skillcolumn {
     float: left;
     width: 33.33%;
-    padding: 0 auto;
+    padding: 0 5px;
   }
   
   /* Remove extra left and right margins, due to padding */
