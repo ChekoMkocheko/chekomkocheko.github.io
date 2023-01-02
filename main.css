@@ -11,6 +11,8 @@ body, html {
 
     }
 
+a:link { text-decoration: none; }
+
 /* Float four columns side by side */
 .column {
     float: left;
