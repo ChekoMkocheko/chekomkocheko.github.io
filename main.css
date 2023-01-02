@@ -34,7 +34,6 @@ body, html {
     .column {
       width: 100%;
       display: block;
-      height: 25%;
       margin-bottom: 20px;
     }
   }
@@ -42,7 +41,7 @@ body, html {
   /* Style the counter cards */
   .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-    padding: 16px;
+    padding: 20px;
     text-align: center;
     background-color: #f1f1f1;
   }
@@ -53,6 +52,6 @@ body, html {
 
   .card-container {
     display: grid;
-    grid-gap: 10px;
+    grid-gap: 15px;
     grid-template-columns: repeat(3, 1fr);
   }
