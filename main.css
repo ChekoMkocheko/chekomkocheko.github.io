@@ -34,6 +34,7 @@ body, html {
     .column {
       width: 100%;
       display: block;
+      height: 25%;
       margin-bottom: 20px;
     }
   }
