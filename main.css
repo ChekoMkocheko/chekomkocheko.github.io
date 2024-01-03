@@ -56,7 +56,7 @@ a:link { text-decoration: none; }
   .flex-container {
     display: flex;
     /* flex-direction: column; */
-    flex-direction: column;
+    flex-direction: row;
     overflow-x: auto;
 
   }
