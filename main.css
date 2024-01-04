@@ -74,3 +74,14 @@ a:link { text-decoration: none; }
     grid-gap: 15px;
     grid-template-columns: repeat(3, 1fr);
   }
+
+  /* Home Page Styles */
+.container-fluid {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.col-sm-12 {
+  margin-top: 50px;
+}
