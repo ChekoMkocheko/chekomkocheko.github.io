@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.paragraph {
+    width: 48%; /* Adjust the width as needed */
+    margin: 0; /* Remove default margin to align paragraphs properly */
+}
