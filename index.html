@@ -23,9 +23,29 @@
             margin-bottom: 20px;
         }
 
+        .col-sm-4 {
+            width: 30%;
+            margin-bottom: 20px;
+        }
+
+        .column {
+            float: left;
+            width: 45%;
+            height: 33%;
+            padding: 0 10px;
+        }
+
         @media screen and (max-width: 768px) {
             .col-sm-6 {
                 width: 100%;
+            }
+            .col-sm-4 {
+                width: 100%;
+            }
+            .column {
+                width: 100%;
+                display: block;
+                margin-bottom: 20px;
             }
         }
     </style>
@@ -42,7 +62,7 @@
     <div class="col-sm-12">
         <h2>Skills</h2>
         <div class = "row">
-            <div class = "skillcolumn">
+            <div class = "col-sm-4">
               <li>Research, Data Analysis and Writing</li>
               <p> I have a vast experience in conducting research using empirical methods through my 
                 econometric classes at Middlebury College. I have since become profecient in data analysis 
@@ -50,14 +70,14 @@
                 for the various research projects I conducted.
                </p>
               </div>
-              <div class = "skillcolumn">
+              <div class = "col-sm-4">
               <li>Programming</li>
               <p>I have vast programming experience through my summer internship and various projects through Computer Science classes.
                 I am proficient in Java, C, C++, Python and Javascript. I have experience using React, Nodejs, and Django for web development.
                 I am moslty interested in system programs because of my interest in Unix systems. 
               </p>
               </div>
-              <div class = "skillcolumn">
+              <div class = "col-sm-4">
               <li>Leadership</li>
               <p>I have developed my leadership skills through taking responsibilities such as 
                 teaching assistanceship for introductory and intermediate level Computer Science classes, resident 
