@@ -55,19 +55,19 @@ a:link { text-decoration: none; }
   }
   .flex-container {
     display: flex;
-    /* flex-direction: column; */
-    flex-direction: row;
+    flex-direction: column;
     overflow-x: auto;
 
   }
 
-  .flex-container iframe {
-    width: 100%; /* Make sure the iframes take up the full width */
-    max-width: 600px; /* Set a maximum width to avoid being too wide */
+  
+  /* .flex-container iframe { 
+    width: 100%; Make sure the iframes take up the full width
+    max-width: 600px; Set a maximum width to avoid being too wide 
     height: 600px;
-    margin-right: 15px; /* Add some margin between iframes */
+    margin-right: 15px;  Add some margin between iframes 
   }
-
+*/
 
   .card-container {
     display: grid;
