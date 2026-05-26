@@ -23,7 +23,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  # avatar           : "profile.png"
+  avatar           : "mkocheko_linkedIn.jpg" # URL to your profile picture, this can be a local file in the /images/ directory or a URL to an image hosted elsewhere
   name             : "Fabian Mkocheko"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
@@ -66,7 +67,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/fabian-mkocheko-a3333813a/"
+  linkedin         : "fabian-mkocheko"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
