@@ -27,10 +27,10 @@ author:
   avatar           : "mkocheko_linkedIn.jpg" # URL to your profile picture, this can be a local file in the /images/ directory or a URL to an image hosted elsewhere
   name             : "Fabian Mkocheko"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "PhD Student"
+  location         : "Amherst, MA"
   employer         : "UMass Amherst"
-  uri              : # URL
+  uri              : "https://www.cics.umass.edu/"
   email            : "none@example.org" 
 
   # Academic websites
@@ -67,7 +67,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "fabian-mkocheko"
+  linkedin         : "fabian-mkocheko-a3333813a"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
