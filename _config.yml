@@ -30,7 +30,7 @@ author:
   bio              : "PhD Student"
   location         : "Amherst, MA"
   employer         : "UMass Amherst"
-  uri              : # "https://www.cics.umass.edu/"
+  uri              : "https://www.cics.umass.edu/"
   email            : # "none@example.org" 
 
   # Academic websites
