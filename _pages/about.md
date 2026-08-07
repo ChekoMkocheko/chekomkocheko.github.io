@@ -12,5 +12,6 @@ I am a second-year PhD student in Computer Science at the University of Massachu
 
 Service
 ======
+- TA CS 377 Fall 2026
 - TA CS 230 Spring 2026
 - TA CS 110 Fall 2025
